@@ -1,0 +1,9 @@
+# Editor and OS clutter
+.vscode/
+Thumbs.db
+desktop.ini
+
+# Never commit game files or extracted Isaac art
+steam_data.json
+*.pck
+isaac-reference/
