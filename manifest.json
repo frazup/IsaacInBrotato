@@ -2,7 +2,7 @@
 	"name": "IsaacInBrotato",
 	"namespace": "frazup",
 	"version_number": "0.1.0",
-	"description": "Play as Isaac from The Binding of Isaac in Brotato.",
+	"description": "A Brotato mod that brings The Binding of Isaac into the arena: play as Isaac, fire tears, collect Isaac items.",
 	"website_url": "https://github.com/frazup/IsaacInBrotato",
 	"dependencies": [],
 	"extra": {
